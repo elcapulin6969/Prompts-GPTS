@@ -1,10 +1,3 @@
-¡Absolutamente! Vamos a expandir y profundizar en tu guía técnica para convertirla en un documento de tesis académica sólido y completo. Aquí tienes una versión mejorada, enfocándonos en la estructura y el rigor académico:
-
-**Título de la Tesis:** Optimización de Entornos de Desarrollo Reproducibles: Implementación de Nix en Kali Linux (WSL2) sobre Windows 11
-
-**Estructura Detallada de la Tesis**
-
-**1. Introducción**
 
 * **Contextualización del Tema:**
     * Explorar la creciente importancia de los entornos de desarrollo reproducibles en la ingeniería de sistemas, especialmente en el contexto de la ciberseguridad y las pruebas de penetración.
